@@ -57,7 +57,7 @@ Here are some ideas to get you started:
     </a></span>
   <br/> 
 
-  https://github.com/Hanil-Kim/Hanil-Kim/blob/output/github-contribution-grid-snake.svg
+![snake gif](https://github.com/Hanil-Kim/Hanil-Kim/blob/output/github-contribution-grid-snake.svg)
   <!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaniL-Kim/HaniL-Kim/output/github-snake-dark.svg">
