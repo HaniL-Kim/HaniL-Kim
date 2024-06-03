@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <h3 align="left">🧸 Contact Me 🧸</h3>
 <p align="left">
   <span><a href="mailto:khigksdlf2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=khigksdlf2@gmail.com"/></a></span>
-  <span><a href="https://hanil2.tistory.com" target='_blank'><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://hanil2.tistory.com"/></a></span>
+  <span><a href="https://hanil2.tistory.com" target='_blank'><img src="https://img.shields.io/badge/Blog-11B48A?style=style=for-the-badge&logo=Tistory&logoColor=white&link=https://hanil2.tistory.com"/></a></span>
 </p>
 
 <h3 align="left">🌱 My Github 🌱 </h3>
