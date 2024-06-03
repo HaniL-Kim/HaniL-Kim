@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 <p align="left">
-  <b>- Engine : </b>
+  ## Engine
     <div>
         <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> 
         <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"> 
