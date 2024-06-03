@@ -58,12 +58,10 @@ Here are some ideas to get you started:
   <br/> 
 
 ![snake gif](https://github.com/Hanil-Kim/Hanil-Kim/blob/output/github-contribution-grid-snake.svg)
-  <!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaniL-Kim/HaniL-Kim/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaniL-Kim/HaniL-Kim/output/github-snake.svg">
     <source media="(prefers-color-scheme: ocean)" srcset="https://raw.githubusercontent.com/HaniL-Kim/HaniL-Kim/output/ocean.gif">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HaniL-Kim/HaniL-Kim/output/github-snake.svg">
   </picture>
-  -->
 </p>
