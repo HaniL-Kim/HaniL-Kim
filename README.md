@@ -17,11 +17,27 @@ Here are some ideas to get you started:
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 <p align="left">
-  <b>- Front-end : </b>
+  <b>- Engine : </b>
+    <div>
+        <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> 
+        <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"> 
+    </div>
   <br/>
-  <b>- Back-end : </b>
+  <b>- Language : </b>
+    <div>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    </div>
   <br/>
+  <b>- Tool : </b>
+    <div>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+    </div>
   <b>- Database : </b>
+    <div>
+      <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    </div>
   <span></span>
   <span></span>
 </p>
@@ -43,7 +59,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🧸 Contact Me 🧸</h3>
 <p align="left">
-  <span><a href="mailto:khigksdlf2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=khigksdlf2@gmail.com"/></a></span>
+  <span><a href="mailto:khigksdlf2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=khigksdlf2@gmail.com"/></a></span>
   <span><a href="https://hanil2.tistory.com" target='_blank'><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://hanil2.tistory.com"/></a></span>
 </p>
 
