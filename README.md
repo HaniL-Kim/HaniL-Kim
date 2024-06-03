@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <span></span>
   <span></span>
 </p>
-------
+- - -
 <h3 align="left">🏛 Career 🏛</h3>
 <p align="left">
   <h4>NITROS</h4>
