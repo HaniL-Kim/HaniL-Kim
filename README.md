@@ -18,31 +18,25 @@ Here are some ideas to get you started:
 ---
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
-<p align="left">
-  <b>- Engine </b>
-    <div>
+  <h4 align="left">- Engine</h4>
+  <div>
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
       <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-    </div>
-<br>
-  <b>- Language </b>
-    <div>
+  </div>
+<h4 align="left">- Language</h4>
+  <div>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    </div>
-<br>
-  <b>- Tool </b>
-    <div>
+  </div>
+<h4 align="left">- Tool</h4>
+  <div>
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-    </div>
-<br>
-  <b>- Database </b>
-    <div>
+  </div>
+<h4 align="left">- Database</h4>
+  <div>
       <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-    </div>
-  <span></span>
-  <span></span>
+  </div>
 </p>
 
 ---
@@ -57,10 +51,16 @@ Here are some ideas to get you started:
 
 <h3 align="left">🏫 Education 🏫</h3>
 <p align="left">
+  <h4>- SGA</h4>
+  2020.02 ~ 2021.04
+  
+  <h4>- ROTC(52) Army artillery First Lt.</h4>
+  2014.03 ~ 2016.06
+  
   <h4>- Korea Univ.</h4>
   2010.02 ~ 2014.02
   
-  <h4>- Busan High School</h4>
+  <h4>- Busan High-School</h4>
   2006.07 ~ 2009.02
 </p>
 
